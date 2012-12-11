@@ -1,0 +1,396 @@
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5709ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5600ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6248ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.2039ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4572ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3150ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.2459ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.6848ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0480ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.2258ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5209ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (25.3952ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5359ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.9018ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.3981ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3067ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4558ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.2940ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6360ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1520ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7300ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0969ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6530ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9369ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8790ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.8541ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7579ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.0579ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3892ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.8440ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.6419ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.5062ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3911ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3170ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9419ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.9860ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8549ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3592ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (26.9921ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0142ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7397ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4920ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.9161ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.3812ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3629ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4369ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.2931ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4689ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3753ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8411ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0812ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5333ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.2961ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6739ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.4440ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6530ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.2551ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1901ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8759ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (25.0092ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.8789ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4729ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.1784ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6367ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.7358ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0742ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9832ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5852ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.8919ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8458ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.9451ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0890ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.9361ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8001ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.2918ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.6681ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1329ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9338ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3379ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9279ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3710ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9960ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.5771ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.4009ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4312ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.5069ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7030ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7741ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.4622ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.1972ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7948ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3920ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.9631ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0061ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6088ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3340ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.7328ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.1580ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1529ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.5310ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (25.3928ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.6051ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9541ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.9079ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.9703ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.8259ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8198ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.6019ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.6756ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.8657ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1801ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0180ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.8041ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.3510ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.4540ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.9303ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.1679ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.2439ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.5172ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.5860ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.0572ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.0219ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (2.0158ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-11 12:41:28 +0900
+Processing by HomeController#index as HTML
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.1687ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4558ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.0579ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (9.1579ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.0040ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (27.1060ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.6960ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.2851ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.0529ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.6980ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.5240ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.3310ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4110ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (7.7729ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.6780ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.8177ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.5872ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (33.7389ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4518ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.8239ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.5581ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.5471ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.2149ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (6.4850ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (7.3688ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.7140ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.7851ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4949ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4429ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (32.9630ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.4899ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.7669ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.3309ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.4078ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (6.9423ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.9531ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.8020ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (5.1601ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.6461ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (6.5641ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.7820ms)
+  Rendered home/index.html.haml within layouts/application (5313.8ms)
+Completed 500 Internal Server Error in 5362ms
+
+Moped::Errors::ConnectionFailure - Could not connect to any secondary or primary nodes for replica set <Moped::Cluster nodes=[<Moped::Node resolved_address="127.0.0.1:27017">]>:
+  (gem) moped-1.3.1/lib/moped/cluster.rb:261:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/cluster.rb:258:in `Moped::Cluster#with_secondary'
+  (gem) moped-1.3.1/lib/moped/session/context.rb:104:in `Moped::Session::Context#with_node'
+  (gem) moped-1.3.1/lib/moped/cursor.rb:115:in `Moped::Cursor#load_docs'
+  (gem) moped-1.3.1/lib/moped/cursor.rb:25:in `Moped::Cursor#each'
+  (gem) moped-1.3.1/lib/moped/query.rb:77:in `Moped::Query#each'
+  (gem) moped-1.3.1/lib/moped/query.rb:77:in `each'
+  (gem) mongoid-3.0.14/lib/mongoid/contextual/mongo.rb:133:in `block in Mongoid::Contextual::Mongo#each'
+  (gem) mongoid-3.0.14/lib/mongoid/contextual/mongo.rb:604:in `Mongoid::Contextual::Mongo#selecting'
+  (gem) mongoid-3.0.14/lib/mongoid/contextual/mongo.rb:132:in `Mongoid::Contextual::Mongo#each'
+  (gem) mongoid-3.0.14/lib/mongoid/contextual.rb:18:in `Mongoid::Criteria#each'
+  app/views/home/index.html.haml:2:in `#<Class:0x007febe9b9c760>#_app_views_home_index_html_haml__3244922019300186585_70325626746980'
+  (gem) actionpack-3.2.8/lib/action_view/template.rb:145:in `block in ActionView::Template#render'
+  (gem) activesupport-3.2.8/lib/active_support/notifications.rb:125:in `ActiveSupport::Notifications.instrument'
+  (gem) actionpack-3.2.8/lib/action_view/template.rb:143:in `ActionView::Template#render'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in ActionView::TemplateRenderer#render_template'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/abstract_renderer.rb:38:in `block in ActionView::TemplateRenderer#instrument'
+  (gem) activesupport-3.2.8/lib/active_support/notifications.rb:123:in `block in ActiveSupport::Notifications.instrument'
+  (gem) activesupport-3.2.8/lib/active_support/notifications/instrumenter.rb:20:in `ActiveSupport::Notifications::Instrumenter#instrument'
+  (gem) activesupport-3.2.8/lib/active_support/notifications.rb:123:in `ActiveSupport::Notifications.instrument'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/abstract_renderer.rb:38:in `ActionView::TemplateRenderer#instrument'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:46:in `block in ActionView::TemplateRenderer#render_template'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:54:in `ActionView::TemplateRenderer#render_with_layout'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:45:in `ActionView::TemplateRenderer#render_template'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/template_renderer.rb:18:in `ActionView::TemplateRenderer#render'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/renderer.rb:36:in `ActionView::Renderer#render_template'
+  (gem) actionpack-3.2.8/lib/action_view/renderer/renderer.rb:17:in `ActionView::Renderer#render'
+  (gem) actionpack-3.2.8/lib/abstract_controller/rendering.rb:110:in `HomeController#_render_template'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/streaming.rb:225:in `HomeController#_render_template'
+  (gem) actionpack-3.2.8/lib/abstract_controller/rendering.rb:103:in `HomeController#render_to_body'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/renderers.rb:28:in `HomeController#render_to_body'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/compatibility.rb:50:in `HomeController#render_to_body'
+  (gem) actionpack-3.2.8/lib/abstract_controller/rendering.rb:88:in `HomeController#render'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/rendering.rb:16:in `HomeController#render'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in HomeController#render'
+  (gem) activesupport-3.2.8/lib/active_support/core_ext/benchmark.rb:5:in `block in Benchmark.ms'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/benchmark.rb:295:in `Benchmark.realtime'
+  (gem) activesupport-3.2.8/lib/active_support/core_ext/benchmark.rb:5:in `Benchmark.ms'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:40:in `block in HomeController#render'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:83:in `HomeController#cleanup_view_runtime'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:39:in `HomeController#render'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/implicit_render.rb:10:in `HomeController#default_render'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/implicit_render.rb:5:in `HomeController#send_action'
+  (gem) actionpack-3.2.8/lib/abstract_controller/base.rb:167:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/rendering.rb:10:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/abstract_controller/callbacks.rb:18:in `block in HomeController#process_action'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:414:in `HomeController#_run__1332925558918568356__process_action__1890688947730541235__callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `HomeController.__run_callback'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:385:in `HomeController#_run_process_action_callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:81:in `HomeController#run_callbacks'
+  (gem) actionpack-3.2.8/lib/abstract_controller/callbacks.rb:17:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/rescue.rb:29:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:30:in `block in HomeController#process_action'
+  (gem) activesupport-3.2.8/lib/active_support/notifications.rb:123:in `block in ActiveSupport::Notifications.instrument'
+  (gem) activesupport-3.2.8/lib/active_support/notifications/instrumenter.rb:20:in `ActiveSupport::Notifications::Instrumenter#instrument'
+  (gem) activesupport-3.2.8/lib/active_support/notifications.rb:123:in `ActiveSupport::Notifications.instrument'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/instrumentation.rb:29:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/params_wrapper.rb:207:in `HomeController#process_action'
+  (gem) actionpack-3.2.8/lib/abstract_controller/base.rb:121:in `HomeController#process'
+  (gem) actionpack-3.2.8/lib/abstract_controller/rendering.rb:45:in `HomeController#process'
+  (gem) actionpack-3.2.8/lib/action_controller/metal.rb:203:in `HomeController#dispatch'
+  (gem) actionpack-3.2.8/lib/action_controller/metal/rack_delegation.rb:14:in `HomeController#dispatch'
+  (gem) actionpack-3.2.8/lib/action_controller/metal.rb:246:in `block in HomeController.action'
+  (gem) actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:73:in `ActionDispatch::Routing::RouteSet::Dispatcher#dispatch'
+  (gem) actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:73:in `ActionDispatch::Routing::RouteSet::Dispatcher#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in Journey::Router#call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `Journey::Router#call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/routing/route_set.rb:600:in `ActionDispatch::Routing::RouteSet#call'
+  (gem) omniauth-1.1.1/lib/omniauth/strategy.rb:177:in `OmniAuth::Strategies::Twitter#call!'
+  (gem) omniauth-1.1.1/lib/omniauth/strategy.rb:157:in `OmniAuth::Strategies::Twitter#call'
+  (gem) omniauth-1.1.1/lib/omniauth/builder.rb:48:in `OmniAuth::Builder#call'
+  (gem) better_errors-0.1.1/lib/better_errors/middleware.rb:23:in `BetterErrors::Middleware#app_call'
+  (gem) better_errors-0.1.1/lib/better_errors/middleware.rb:17:in `BetterErrors::Middleware#call'
+  (gem) mongoid-3.0.14/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in Rack::Mongoid::Middleware::IdentityMap#call'
+  (gem) mongoid-3.0.14/lib/mongoid/unit_of_work.rb:39:in `Mongoid.unit_of_work'
+  (gem) mongoid-3.0.14/lib/rack/mongoid/middleware/identity_map.rb:34:in `Rack::Mongoid::Middleware::IdentityMap#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/best_standards_support.rb:17:in `ActionDispatch::BestStandardsSupport#call'
+  (gem) rack-1.4.1/lib/rack/etag.rb:23:in `Rack::ETag#call'
+  (gem) rack-1.4.1/lib/rack/conditionalget.rb:25:in `Rack::ConditionalGet#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/head.rb:14:in `ActionDispatch::Head#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/params_parser.rb:21:in `ActionDispatch::ParamsParser#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/flash.rb:242:in `ActionDispatch::Flash#call'
+  (gem) rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `ActionDispatch::Session::CookieStore#context'
+  (gem) rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `ActionDispatch::Session::CookieStore#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/cookies.rb:339:in `ActionDispatch::Cookies#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:28:in `block in ActionDispatch::Callbacks#call'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `ActionDispatch::Callbacks#_run__3248146568478245906__call__1952909583329125380__callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `ActionDispatch::Callbacks.__run_callback'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:385:in `ActionDispatch::Callbacks#_run_call_callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:81:in `ActionDispatch::Callbacks#run_callbacks'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:27:in `ActionDispatch::Callbacks#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/reloader.rb:65:in `ActionDispatch::Reloader#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/remote_ip.rb:31:in `ActionDispatch::RemoteIp#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `ActionDispatch::DebugExceptions#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/show_exceptions.rb:56:in `ActionDispatch::ShowExceptions#call'
+  (gem) railties-3.2.8/lib/rails/rack/logger.rb:26:in `Rails::Rack::Logger#call_app'
+  (gem) railties-3.2.8/lib/rails/rack/logger.rb:16:in `Rails::Rack::Logger#call'
+  (gem) quiet_assets-1.0.1/lib/quiet_assets.rb:20:in `Rails::Rack::Logger#call_with_quiet_assets'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/request_id.rb:22:in `ActionDispatch::RequestId#call'
+  (gem) rack-1.4.1/lib/rack/methodoverride.rb:21:in `Rack::MethodOverride#call'
+  (gem) rack-1.4.1/lib/rack/runtime.rb:17:in `Rack::Runtime#call'
+  (gem) activesupport-3.2.8/lib/active_support/cache/strategy/local_cache.rb:72:in `ActiveSupport::Cache::Strategy::LocalCache::Middleware#call'
+  (gem) rack-1.4.1/lib/rack/lock.rb:15:in `Rack::Lock#call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/static.rb:62:in `ActionDispatch::Static#call'
+  (gem) railties-3.2.8/lib/rails/engine.rb:479:in `OpenEn::Application#call'
+  (gem) railties-3.2.8/lib/rails/application.rb:223:in `OpenEn::Application#call'
+  (gem) rack-1.4.1/lib/rack/content_length.rb:14:in `Rack::ContentLength#call'
+  (gem) railties-3.2.8/lib/rails/rack/log_tailer.rb:17:in `Rails::Rack::LogTailer#call'
+  (gem) rack-1.4.1/lib/rack/handler/webrick.rb:59:in `Rack::Handler::WEBrick#service'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `WEBrick::HTTPServer#service'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `WEBrick::HTTPServer#run'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in WEBrick::HTTPServer#start_thread'
+
+
+
+Started POST "/__better_errors/70325627747020/variables" for 127.0.0.1 at 2012-12-11 12:41:33 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-11 12:44:40 +0900
+Processing by HomeController#index as HTML
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (3.3212ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=open_en_development collection=users selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4170ms)
+  Rendered home/index.html.haml within layouts/application (5.7ms)
+Compiled home.css  (1ms)  (pid 50223)
+Compiled application.css  (55ms)  (pid 50223)
+Compiled jquery.js  (34ms)  (pid 50223)
+Compiled jquery_ujs.js  (0ms)  (pid 50223)
+Compiled home.js  (167ms)  (pid 50223)
+Compiled application.js  (289ms)  (pid 50223)
+  Rendered layouts/_navigation.html.haml (2.7ms)
+  Rendered layouts/_messages.html.haml (0.8ms)
+Completed 200 OK in 513ms (Views: 497.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-12-11 12:44:52 +0900
+Processing by HomeController#index as HTML
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.7441ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=open_en_development collection=users selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1860ms)
+  Rendered home/index.html.haml within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.haml (0.6ms)
+  Rendered layouts/_messages.html.haml (0.1ms)
+Completed 200 OK in 9ms (Views: 8.3ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-12-11 12:44:53 +0900
+Processing by SessionsController#new as HTML
+Redirected to http://localhost:3000/auth/twitter
+Completed 302 Found in 0ms
+
+
+Started GET "/auth/twitter" for 127.0.0.1 at 2012-12-11 12:44:53 +0900
+
+OAuth::Unauthorized - 401 Unauthorized:
+  (gem) oauth-0.4.7/lib/oauth/consumer.rb:216:in `token_request'
+  (gem) oauth-0.4.7/lib/oauth/consumer.rb:136:in `get_request_token'
+  (gem) omniauth-oauth-1.0.1/lib/omniauth/strategies/oauth.rb:29:in `request_phase'
+  (gem) omniauth-twitter-0.0.14/lib/omniauth/strategies/twitter.rb:63:in `request_phase'
+  (gem) omniauth-1.1.1/lib/omniauth/strategy.rb:207:in `request_call'
+  (gem) omniauth-1.1.1/lib/omniauth/strategy.rb:174:in `call!'
+  (gem) omniauth-1.1.1/lib/omniauth/strategy.rb:157:in `call'
+  (gem) omniauth-1.1.1/lib/omniauth/builder.rb:48:in `call'
+  (gem) better_errors-0.1.1/lib/better_errors/middleware.rb:23:in `app_call'
+  (gem) better_errors-0.1.1/lib/better_errors/middleware.rb:17:in `call'
+  (gem) mongoid-3.0.14/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.14/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.14/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.1/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.1/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `context'
+  (gem) rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/cookies.rb:339:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `_run__2058866105514750688__call__663319386363423564__callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.8/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.8/lib/rails/rack/logger.rb:26:in `call_app'
+  (gem) railties-3.2.8/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.1/lib/quiet_assets.rb:20:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.1/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.1/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.8/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.1/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.8/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.8/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.8/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.1/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.8/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.1/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/momotaro/.rbenv/versions/1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
