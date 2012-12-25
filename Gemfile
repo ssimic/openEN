@@ -2,17 +2,21 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
 
-gem 'jquery-rails'
 gem "mongoid", ">= 3.0.14"
-gem "haml", ">= 3.1.7"
 
 gem "omniauth", ">= 1.1.1"
 gem 'omniauth-tumblr'
 
+gem 'jquery-rails'
+gem "haml", ">= 3.1.7"
+gem 'simple_form'
+gem 'bootstrap-sass', '~> 2.2.2.0'
+
 group :assets do
-  gem 'sass-rails',   '~> 3.2.3'
-  gem 'coffee-rails', '~> 3.2.1'
-  gem 'uglifier', '>= 1.0.3'
+  gem 'sass-rails'   , '~> 3.2.3'
+  gem 'coffee-rails' , '~> 3.2.1'
+  gem 'uglifier'     , '>= 1.0.3'
+  gem "therubyracer" , '0.10.2'
 end
 
 group :development do
@@ -36,4 +40,11 @@ end
 group :development, :test do
   gem "rspec-rails"        , ">= 2.11.4"
   gem "factory_girl_rails" , ">= 4.1.0"
+
+  # for Auto Test
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'guard-spork'
+  gem 'spork', '>=0.9.0.rc7'
+  gem 'growl'
 end
