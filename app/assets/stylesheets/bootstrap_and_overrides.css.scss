@@ -1,0 +1,214 @@
+@import "bootstrap";
+body { padding-top: 60px; padding-bottom: 20px; }
+@import "bootstrap-responsive";
+
+@mixin bs_button {
+  display: inline-block;
+  @include ie7-inline-block();
+  padding: 4px 14px;
+  margin-bottom: 0; // For input.btn
+  font-size: $baseFontSize;
+  line-height: $baseLineHeight;
+  *line-height: $baseLineHeight;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  @include buttonBackground($btnBackground, $btnBackgroundHighlight, $grayDark, 0 1px 1px rgba(255,255,255,.75));
+  border: 1px solid $btnBorder;
+  *border: 0; // Remove the border to prevent IE7's black border on input:focus
+  border-bottom-color: darken($btnBorder, 10%);
+  @include border-radius(4px);
+  @include ie7-restore-left-whitespace(); // Give IE7 some love
+  @include box-shadow(#{inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05)});
+
+  // Hover state
+  &:hover {
+    color: $grayDark;
+    text-decoration: none;
+    background-color: darken($white, 10%);
+    *background-color: darken($white, 15%); /* Buttons in IE7 don't get borders, so darken on hover */
+    background-position: 0 -15px;
+
+    // transition is only when going to hover, otherwise the background
+    // behind the gradient (there for IE<=9 fallback) gets mismatched
+    @include transition(background-position .1s linear);
+  }
+
+  // Focus state for keyboard and accessibility
+  &:focus {
+    @include tab-focus();
+  }
+
+  // Active state
+  &.active,
+  &:active {
+    background-color: darken($white, 10%);
+    background-color: darken($white, 15%) \9;
+    background-image: none;
+    outline: 0;
+    @include box-shadow(#{inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05)});
+  }
+
+  // Disabled state
+  &.disabled,
+  &[disabled] {
+    cursor: default;
+    background-color: darken($white, 10%);
+    background-image: none;
+    @include opacity(0.65);
+    @include box-shadow(none);
+  }
+
+}
+
+@mixin number {
+  text-align: right;
+  padding-right: 15px;
+}
+
+.number {
+  text-align: right;
+  padding-right: 15px;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+.brand {
+  span {
+    margin-left: 8px;
+    font-size: 12px;
+  }
+}
+
+.cont-title {
+  padding-bottom: 3px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #eee;
+  h3, h4 {
+    display: inline;
+  }
+  h4 {
+    margin-bottom: 4px;
+  }
+
+  .add-link {
+    margin-bottom: 5px;
+    a {
+      @include bs_button;
+      color: #000;
+    }
+  }
+}
+
+// List
+//--------------------------------------------
+
+ul.horizontal_list {
+  list-style: none;
+  li {
+    display: table-cell;
+  }
+}
+
+dl {
+  dt {
+    float:left;
+    width: 80px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    padding-right: 0;
+  }
+
+  dd {
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    @include clearfix;
+  }
+}
+
+// Tables
+//--------------------------------------------
+table {
+  td {
+    &.number {
+      @include number;
+    }
+  }
+
+  th, td {
+    &.operator {
+      text-align: center;
+      width: 30px;
+    }
+  }
+}
+
+
+
+// Forms
+//--------------------------------------------
+table .control-group {
+  margin: 0;
+  .controls {
+    padding: 5px;
+    input { margin: 0; }
+  }
+}
+
+label {
+  font-weight: bold;
+}
+
+.field_with_errors {
+  display: inline;
+  input {
+    border: solid 1px #fa8072;
+  }
+}
+
+.form-errors {
+  margin: 15px 0;
+  padding: 10px 25px;
+  background: #ffe4e1;
+  border: 1px solid #ffc0cb;
+
+  li {
+    font-size: 12px;
+    padding: 3px 0;
+    color: #8b0000;
+    list-style-type: circle;
+    line-height: 14px;
+  }
+}
+
+.submit {
+  padding-top: 15px;
+  border-top: #eee solid 2px;
+}
+
+
+// Notification
+//--------------------------------------------
+#notification {
+  &.fixed {
+    position: fixed;
+    right: 80px;
+    width: 500px;
+  }
+}
+
+
+// Modal
+//--------------------------------------------
+body {
+  width: 100%;
+}
+#globalModal {
+  top: 400px;
+  display: none;
+}
+
